@@ -1,0 +1,11 @@
+{
+  "name": "mapleridge-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "openai": "^4.0.0",
+    "axios": "^1.6.0"
+  }
+}
